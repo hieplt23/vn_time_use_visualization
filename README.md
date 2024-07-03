@@ -1,4 +1,4 @@
-# [PYTHON] Vietnam time use visualization
+# Vietnam time use visualization
 
 ## Introduction
 

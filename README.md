@@ -19,7 +19,7 @@ The survey covered the following socio-economic regions:
 * Mekong River Delta
 
 ## Result
-By running the sript **main.py**, we will have following output:
+By running the script **main.py**, we will have following output:
 <p align="center">
   <img src="demo.gif" width=800><br/>
   <i>Vietnam time use</i>

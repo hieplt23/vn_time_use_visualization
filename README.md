@@ -23,7 +23,7 @@ The survey covered the following socio-economic regions:
 ## Result
 By running the script `main.py`, we will have following output:
 <p align="center">
-  <img src="demo.gif" width=800><br/>
+  <img src="demo1.gif" width=1000><br/>
   <em>Vietnam time use</em>
 </p>
 

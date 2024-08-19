@@ -1,5 +1,6 @@
-# Vietnam time use visualization
-
+<div align="center">
+  <h1>Vietnam time use visualization📊</h1>
+</div>
 ## Introduction
 
 Here is my python source code for visualizing how Vietnamese people spend their time.
@@ -19,10 +20,10 @@ The survey covered the following socio-economic regions:
 * Mekong River Delta
 
 ## Result
-By running the script **main.py**, we will have following output:
+By running the script `main.py`, we will have following output:
 <p align="center">
   <img src="demo.gif" width=800><br/>
-  <i>Vietnam time use</i>
+  <em>Vietnam time use</em>
 </p>
 
 ## Requirements

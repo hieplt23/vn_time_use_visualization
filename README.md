@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Vietnam time use visualization📊</h1>
 </div>
+
 ## Introduction
 
 Here is my python source code for visualizing how Vietnamese people spend their time.
